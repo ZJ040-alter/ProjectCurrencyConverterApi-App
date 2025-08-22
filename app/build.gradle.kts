@@ -38,4 +38,9 @@ dependencies {
     testImplementation(libs.junit)
     androidTestImplementation(libs.ext.junit)
     androidTestImplementation(libs.espresso.core)
+
+    //implementações necessárias para utilizar o restrofit
+    implementation("com.squareup.retrofit2:retrofit:2.9.0")
+    //retrofit com GSON - converte objeto java em json e vice versa
+    implementation("com.squareup.retrofit2:converter-gson:2.9.0")
 }
