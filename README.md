@@ -20,13 +20,10 @@ Uma biblioteca Java para acessar a API ExchangeRate. Permite consultar taxas de 
 
 - `Consulta de taxas de câmbio`: permite buscar taxas de câmbio em tempo real entre diferentes moedas.
 
-- `Integração via HTTP`: realiza requisições HTTP à API ExchangeRate de forma simples e segura.
-
 - `Suporte a repositórios locais e remotos`: permite o uso local ou por meio de repositórios remotos.
 
 - `Conversão de valores monetários`: converte valores entre moedas com base nas taxas atuais.
 
-- `Tratamento de erros`: lida com falhas de rede, respostas inválidas ou limites da API, fornecendo mensagens claras para o desenvolvedor.
 ## Pessoas Contribuidoras
 - Professor Leonardo
 - Samir
