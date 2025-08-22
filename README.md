@@ -1,5 +1,5 @@
 # Projeto Conversor de Moedas
-![descrição da imagem](url da imagem gerado pelo serviço de hospedagem ou GitHub)
+<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/d5a4119b-f51f-4c3f-87f1-4272aa4f73ad" />
 ## Índice 
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
