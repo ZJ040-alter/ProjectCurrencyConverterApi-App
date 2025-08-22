@@ -30,5 +30,5 @@ Uma biblioteca Java para acessar a API ExchangeRate. Permite consultar taxas de 
 - Professor Leonardo
 - Samir
 ## Autores
-| ![Image](https://github.com/user-attachments/assets/75ac1ae4-46aa-47c4-9261-44d83512ad77)<br><sub>João Pedro Ferreira Faustino</sub>](https://github.com/camilafernanda) |  
+| ![Image(https://github.com/user-attachments/assets/75ac1ae4-46aa-47c4-9261-44d83512ad77)<br><sub>João Pedro Ferreira Faustino</sub>]([https://github.com/camilafernanda](https://github.com/ZJ040-alter)) |  
 | :---: |
