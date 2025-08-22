@@ -6,10 +6,11 @@
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Status do Projeto](#status-do-Projeto)
 * [Funcionalidades](#funcionalidades)
+* [Tecnologias Utilizadas](#tecnologias-utilizadas)
 * [Pessoas Contribuidoras](#pessoas-contribuidoras)
 * [Autores](#autores)
 ## Descrição do projeto
-Uma biblioteca Java para acessar a API ExchangeRate. Permite consultar taxas de câmbio entre diferentes moedas de forma simples.
+Uma biblioteca em Java que permite acesso à API ExchangeRate, facilitando a consulta e conversão de moedas em tempo real. O objetivo é fornecer uma solução simples, eficaz e de fácil integração para desenvolvedores que desejam incorporar funcionalidades de câmbio monetário em suas aplicações.
 ## Status do Projeto
 <h4 align="center"> 
 	:construction:  Projeto em construção  :construction:
@@ -24,9 +25,23 @@ Uma biblioteca Java para acessar a API ExchangeRate. Permite consultar taxas de 
 
 - `Conversão de valores monetários`: converte valores entre moedas com base nas taxas atuais.
 
-## Pessoas Contribuidoras
-- Professor Leonardo
-- Samir
+## 💻 Tecnologias Utilizadas
+
+- Java 11+
+
+- API ExchangeRate
+
+- AndroidStudio
+
+## 🤝 Pessoas Contribuidoras
+
+Agradecimentos especiais para quem ajudou a construir este projeto:
+
+👨‍🏫 Professor Leonardo
+
+👨‍💻 Samir
+
+Quer contribuir? Sinta-se à vontade para abrir um pull request ou relatar problemas!
 ## Autores
 | [<img loading="lazy" src="https://github.com/user-attachments/assets/75ac1ae4-46aa-47c4-9261-44d83512ad77" width=115><br><sub>João Pedro Ferreira Faustino</sub>](https://github.com/ZJ040-alter) |  
 | :---: |
