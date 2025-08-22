@@ -1,5 +1,6 @@
 # Projeto Conversor de Moedas
-<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/d5a4119b-f51f-4c3f-87f1-4272aa4f73ad" />
+<img width="250" height="250" alt="Image" src="https://github.com/user-attachments/assets/d5a4119b-f51f-4c3f-87f1-4272aa4f73ad" />
+
 ## Índice 
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
