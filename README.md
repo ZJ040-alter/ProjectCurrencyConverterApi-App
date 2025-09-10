@@ -7,6 +7,7 @@
 * [Status do Projeto](#status-do-Projeto)
 * [Funcionalidades](#funcionalidades)
 * [Tecnologias Utilizadas](#tecnologias-utilizadas)
+* [Arquivos Recentemente Adicionados](#arquivos-recentemente-adicionados)
 * [Pessoas Contribuidoras](#pessoas-contribuidoras)
 * [Autores](#autores)
 ## Descrição do projeto
@@ -32,6 +33,13 @@ Uma biblioteca em Java que permite acesso à API ExchangeRate, facilitando a con
 - API ExchangeRate
 
 - AndroidStudio
+
+##📂 Arquivos Recentemente Adicionados
+
+Foram adicionadas as seguintes classes ao projeto para integração com a API de taxas de câmbio:
+
+ExchangeRateService.java
+Interface responsável por definir os endpoints da API ExchangeRate utilizando Retrofit.
 
 ## 🤝 Pessoas Contribuidoras
 
